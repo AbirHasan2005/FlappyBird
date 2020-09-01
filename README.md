@@ -1,6 +1,6 @@
 # FlappyBird v1.0
 
-A Flappy Bird Game. Made using Python [pygame](pygame) Module.
+A Flappy Bird Game. Made using Python [pygame](pygame.org) Module.
 
 
 ## Setup & Play:
