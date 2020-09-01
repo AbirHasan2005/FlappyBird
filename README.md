@@ -2,6 +2,9 @@
 
 A Flappy Bird Game. Made using Python [pygame](pygame.org) Module.
 
+## Screenshots:
+![screenshot](capture.png)
+![screeshot](screenshot.png)
 
 ## Setup & Play:
 
