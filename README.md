@@ -26,7 +26,7 @@ A Flappy Bird Game. Made using Python [pygame](https://pygame.org) Module.
 4. Clone the repository:
 
    ```bash
-   git clone https://github.com/sourabhv/FlapPyBird
+   git clone https://github.com/AbirHasan2005/FlappyBird
    ```
 
    Or download as zip and extract. Can download from [Releases](https://github.com/AbirHasan2005/FlappyBird/releases). Also EXE file available.
