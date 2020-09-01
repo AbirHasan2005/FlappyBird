@@ -12,10 +12,12 @@ A Flappy Bird Game. Made using Python [pygame](pygame.org) Module.
 
 2. Install pipenv Python3 module.
 	`pip3 install pipenv`  ***If pip3 runs with `pip3` command!***
+	
 	`pip install pipenv`   ***If pip3 runs with `pip` command!***
 
 3. Install PyGame Python3 module.
 	`pip3 install pygame`  ***If pip3 runs with `pip3` command!***
+	
 	`pip install pygame`   ***If pip3 runs with `pip` command!***
 
 4. Clone the repository:
