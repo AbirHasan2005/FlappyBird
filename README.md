@@ -3,6 +3,7 @@
 A Flappy Bird Game. Made using Python [pygame](pygame.org) Module.
 
 ## Screenshots:
+
 ![screenshot](capture.png)
 ![screeshot](screenshot.png)
 
@@ -11,6 +12,7 @@ A Flappy Bird Game. Made using Python [pygame](pygame.org) Module.
 1. Install Python v3 or [Download Manually](https://www.python.org/download/releases) and setup.
 
 2. Install pipenv Python3 module.
+
 	`pip3 install pipenv`  ***If pip3 runs with `pip3` command!***
 	
 	`pip install pipenv`   ***If pip3 runs with `pip` command!***
@@ -30,12 +32,14 @@ A Flappy Bird Game. Made using Python [pygame](pygame.org) Module.
 
 5. In the root directory run
 
-   ```bash
-   pipenv install
-   pipenv run python flappy.py
-   ```
+   `pipenv install`
+   
+   `pipenv run python flappy.py`
+   
    Or,
+   
    `python3 flappy.py`  ***If python3 runs with `python3` command!***
+   
    `python flappy.py`   ***If python3 runs with `python` command!***
 
 6. Use <kbd>&uarr;</kbd> or <kbd>Space</kbd> key to play and <kbd>Esc</kbd> to close the game.
